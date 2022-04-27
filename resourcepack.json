@@ -1,6 +1,6 @@
 {
   "id": "korean",
-  "version": "3.0.20220427204813",
+  "version": "3.0.20220427210358",
   "name": "한국어(글로벌 서버)",
   "author": "Nesswit",
   "description": "인터페이스를 한국어로 표시합니다.",
@@ -74,6 +74,7 @@
     "en/myres2/fieldspell/big_zhuang3.png",
     "en/myres2/fieldspell/big_zhuang4.png",
     "en/myres2/fieldspell/big_zhuang5.png",
+    "res/.DS_Store",
     "res/atlas/bitmapfont/jp.atlas",
     "res/atlas/bitmapfont/jp.png",
     "res/config/lqc.lqbin",
