@@ -1,6 +1,6 @@
 {
   "id": "korean",
-  "version": "3.0.20220427195156",
+  "version": "3.0.20220427204813",
   "name": "한국어(글로벌 서버)",
   "author": "Nesswit",
   "description": "인터페이스를 한국어로 표시합니다.",
@@ -9,8 +9,11 @@
     "majsoul_plus": "^2.0.0"
   },
   "replace": [
+    ".DS_Store",
     "bitmapfont/jp/jp_haolong.fnt",
     "bitmapfont/jp/jp_jiye.fnt",
+    "docs/.DS_Store",
+    "docs/spot/.DS_Store",
     "docs/spot/erjietang/200004_jp.bytes",
     "docs/spot/erjietang/200005_jp.bytes",
     "docs/spot/erjietang/200006_jp.bytes",
